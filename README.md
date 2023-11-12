@@ -4,7 +4,7 @@ This website is designed to showcase the latest AirPods Pro and their features. 
 
 ## GitHub Button
 
-[![GitHub stars](https://img.shields.io/github/stars/YOUR-USERNAME/YOUR-REPOSITORY.svg?style=social&label=Star&maxAge=2592000)](https://github.com/yusuforzibekov/airpods-pro/stargazers)
+[![GitHub stars](https://img.shields.io/github/stars/yusuforzibekov/airpods-pro.svg?style=social&label=Star&maxAge=2592000)](https://github.com/yusuforzibekov/airpods-pro/stargazers)
 
 ## Interactive Features
 
